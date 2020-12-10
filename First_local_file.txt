@@ -1,0 +1,3 @@
+first local file created on local machine.
+This file will not be initially present in the local repo.
+For it, it has to be committed.
